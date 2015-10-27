@@ -21,7 +21,7 @@ Usage
 
 Dependencies
 ============
-  1. JExcelApi: http://jexcelapi.sourceforge.net/
+  1. JExcelApi(http://jexcelapi.sourceforge.net/)
   2. appcompat-v7 library by android
   3. design library by android
   4. cardview library by android
