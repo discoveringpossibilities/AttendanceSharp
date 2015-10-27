@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/event_dialog_cardview"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_centerHorizontal="true"
+    android:alpha="0.8"
+    app:cardElevation="3.0dip"
+    app:cardUseCompatPadding="true" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="6" >
+
+            <TextView
+                android:layout_height="fill_parent"
+                android:layout_weight="3"
+                android:layout_width="0.0dip"
+                android:drawableLeft="@drawable/ic_time"
+                android:drawableStart="@drawable/ic_time"
+                android:fontFamily="sans-serif-condensed"
+                android:gravity="center"
+                android:padding="10.0dip"
+                android:text="Class Timing:"
+                android:textColor="@color/black"
+                android:textSize="13.5sp" />
+
+            <TextView
+                android:id="@+id/timetable_course_time_start"
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:fontFamily="sans-serif-condensed"
+                android:gravity="center_vertical"
+                android:padding="10.0dip"
+                android:text="9:00"
+                android:textColor="@color/black"
+                android:textSize="13.5sp" />
+
+            <TextView
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:fontFamily="sans-serif-condensed"
+                android:gravity="center"
+                android:padding="10.0dip"
+                android:text="TO"
+                android:textColor="@color/black"
+                android:textSize="13.5sp" />
+
+            <TextView
+                android:id="@+id/timetable_course_time_end"
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:fontFamily="sans-serif-condensed"
+                android:gravity="center_vertical"
+                android:padding="10.0dip"
+                android:text="10:00"
+                android:textColor="@color/black"
+                android:textSize="13.5sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+               
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.50"
+                android:drawableLeft="@drawable/ic_comments"
+                android:drawableStart="@drawable/ic_comments"
+                android:fontFamily="sans-serif-condensed"
+                android:gravity="center"
+                android:padding="10.0dip"
+                android:text="Course Code:"
+                android:textColor="@color/black"
+                android:textSize="13.5sp" />
+
+            <TextView
+                 android:id="@+id/timetable_course_code"
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.50"
+                android:fontFamily="sans-serif-condensed"
+                android:gravity="center_vertical"
+                android:padding="10.0dip"
+                android:textColor="@color/black"
+                android:textSize="13.5sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+               
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.50"
+                android:drawableLeft="@drawable/ic_location"
+                android:drawableStart="@drawable/ic_location"
+                android:fontFamily="sans-serif-condensed"
+                android:gravity="center"
+                android:padding="10.0dip"
+                android:text="Room Number:"
+                android:textColor="@color/black"
+                android:textSize="13.5sp" />
+
+            <TextView
+                 android:id="@+id/timetable_course_place"
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.50"
+                android:fontFamily="sans-serif-condensed"
+                android:gravity="center_vertical"
+                android:padding="10.0dip"
+                android:textColor="@color/black"
+                android:textSize="13.5sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.50"
+                android:drawableLeft="@drawable/ic_category"
+                android:drawableStart="@drawable/ic_category"
+                android:fontFamily="sans-serif-condensed"
+                android:gravity="center"
+                android:padding="10.0dip"
+                android:text="Course Type:   "
+                android:textColor="@color/black"
+                android:textSize="13.5sp" />
+
+            <TextView
+                android:id="@+id/timetable_course_type"
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.50"
+                android:fontFamily="sans-serif-condensed"
+                android:gravity="center_vertical"
+                android:padding="10.0dip"
+                android:textColor="@color/black"
+                android:textSize="13.5sp" />
+        </LinearLayout>
+
+       <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.50"
+                android:drawableLeft="@drawable/ic_teacher"
+                android:drawableStart="@drawable/ic_teacher"
+                android:fontFamily="sans-serif-condensed"
+                android:gravity="center"
+                android:padding="10.0dip"
+                android:text="Course Teacher:   "
+                android:textColor="@color/black"
+                android:textSize="13.5sp" />
+
+            <TextView
+                android:id="@+id/timetable_course_teacher"
+                android:layout_width="0.0dip"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.50"
+                android:fontFamily="sans-serif-condensed"
+                android:gravity="center_vertical"
+                android:padding="10.0dip"
+                android:textColor="@color/black"
+                android:textSize="13.5sp" />
+        </LinearLayout>
+
+       <Button
+           android:id="@+id/okay"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Okay" />
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

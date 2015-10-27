@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/material_blue_grey_800</color>
+    <color name="colorPrimaryDark">@color/material_blue_grey_900</color>
+
+    <color name="colorSecondary">@color/material_deep_teal_200</color>
+    <color name="colorSecondaryDark">@color/material_deep_teal_500</color>
+    
+    <color name="colorPrimaryWhite">#FFFFFF</color>
+
+    <color name="windowBackgroundColor">#333333</color>
+    <color name="black_translucent">#80000000</color>
+    
+    <color name="background_tab_pressed">#1AFFFFFF</color>
+        
+    <color name="rippelColor">#FFFFFF</color>
+    <color name="DimGray">#696969</color>
+    
+    <color name="teal_accent">#ff009688</color>
+    <color name="teal_divider">#ffb6b6b6</color>
+    <color name="teal_icons">#ffffffff</color>
+    <color name="teal_primary">#ff009688</color>
+    <color name="teal_primary_dark">#ff00796b</color>
+    <color name="teal_primary_light">#ffb2dfdb</color>
+    <color name="teal_primary_text">#ff212121</color>
+    <color name="teal_secondary_text">#ff727272</color>
+    <color name="deaf_text">#ffcfd8dc</color>
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffffff</color>
+    
+</resources>
