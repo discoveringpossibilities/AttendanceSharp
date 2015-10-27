@@ -1,3 +1,0 @@
-Application Version: 1.0.0.0
-Application Creator: Saksham Nanda, Rajat Dhamija, Pramod Garg
-Fresh Installed: True
