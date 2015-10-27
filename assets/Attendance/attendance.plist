@@ -1,0 +1,11 @@
+<?XML version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="2.0">
+	<Lecture>
+		<Course_Code>CSE101</Course_Code>
+		<Course_Name>Computer Science</Course_Name>
+		<Course_Type>Computer Science</Course_Type>
+		<Classes_Total>48</Classes_Total>
+		<Classes_Attended>12</Classes_Attended>
+	</Lecture>
+</plist>

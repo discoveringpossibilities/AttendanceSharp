@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Attendance #</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="contentDescription">This is an image!</string>
+    
+    <!-- Navigation Drawer -->
+    <string name="navigation_header_title">AttendanceSharp</string>
+    <string name="navigation_header_subtitle">The way it is supposed to be!</string>
+    <string name="navigation_item_1">Attendance</string>
+    <string name="navigation_item_2">Timetable</string>
+    
+    <!-- Toolbar Navigation -->
+    <string name="action_add_item">Add Item</string>
+    <string name="action_share_attendance">Share Attendance</string>
+    <string name="action_about_us">About Us</string>
+    
+    <!-- Contact Us -->
+    <string name="saksham_nanda">Saksham Nanda</string>
+    <string name="founder">Founder</string>
+    <string name="rajat_dhamija">Rajat Dhamija</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="pramod_garg">Pramod Garg</string>
+</resources>
