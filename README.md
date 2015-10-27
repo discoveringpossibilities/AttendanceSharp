@@ -2,7 +2,7 @@
 
 Application File
 ================
-You can download the sample application [here](sample/Attendance%23.apk)
+You can download the sample application [here](sample/Attendance%23.apk?raw=true)
 
 Usage
 =====
