@@ -14,8 +14,7 @@ Usage
 
   5. Long tap on any list item to have different functionalities. (Editing course in Timetable / Detail View of Attendance) 
 
-  6. Use icons in action bar for other functions, like adding a course in timetable or exporting the detailed attendance sheet to your phone.
-    `View screenshots samples for more details`. 
+  6. Use icons in action bar for other functions, like adding a course in timetable or exporting the detailed attendance sheet to your phone. `View screenshots samples for more details`. 
 
 Dependencies
 ============
@@ -26,9 +25,11 @@ Dependencies
 Credits
 =======
 
-Saksham Nanda `Developer`.
-Rajat Dhamija `Co-Developer`.
-Pramod Garg `Co-Developer`.
+Saksham Nanda `Developer`
+
+Rajat Dhamija `Co-Developer`
+
+Pramod Garg `Co-Developer`
 
 License
 =======
