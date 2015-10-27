@@ -1,5 +1,10 @@
 # AttendanceSharp
 
+Application File
+================
+You can download the sample application [here](Attendance#.apk)
+https://github.com/discoveringpossibilities/AttendanceSharp/blob/master/sample/Attendance%23.apk
+
 
 Usage
 =====
